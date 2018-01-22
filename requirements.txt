@@ -112,8 +112,6 @@ redis==2.10.5
 request==0.0.22
 requests==2.12.4
 rope-py3k==0.9.4.post1
-scikit-image==0.12.3
-scikit-learn==0.18.1
 scipy==0.18.1
 seaborn==0.7.1
 selection==0.0.13
